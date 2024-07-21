@@ -4,7 +4,7 @@
 
 📊 My journey in Web development has been enriched with good ideas and powerfull projects.
 
-💡 I believe in the power of  to drive informed decisions and improve businesses.
+💡 I believe in the power of web development to drive informed decisions and improve businesses.
 
 🌱 I'm always learning and staying up-to-date with the latest advancements in the field.
 
