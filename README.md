@@ -10,6 +10,6 @@
 
 👨‍💻 I'm proficient in Python, Databases(MySQL and MongoDB), and various web development tools.
 
-🤝 I'm open to collaborations and discussions on projects related to .
+🤝 I'm open to collaborations and discussions on projects related to web development.
 
 📈 My goal is to make Development accessible and impactful for everyone.
