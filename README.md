@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Langat Evans</h1>
 <h3 align="center">A passionate full stack developer specializing in creating efficient and scalable solutions,focusing on robust APIs and database performance optimization.</h3>
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
@@ -11,7 +10,7 @@
 
 - 📊 My journey in Web development **has been enriched with good ideas and powerful projects**
 
-- 👨💻 All of my projects are available at [https://github.com/tutujnr](https://github.com/tutujnr)
+- 💻 All of my projects are available at [https://github.com/tutujnr](https://github.com/tutujnr)
 
 - 📈 My goal is to make Development **accessible and impactful for everyone**
 
