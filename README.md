@@ -1,9 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Langat Evans</h1>
 <h3 align="center">A passionate full stack developer specializing in creating efficient and scalable solutions,focusing on robust APIs and database performance optimization.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tutujnr&label=Profile%20views&color=0e75b6&style=flat" alt="tutujnr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tutujnr" alt="tutujnr" /></a> </p>
+<img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 - 🔭 I’m currently working on **Personal Finance Management System**
 
@@ -13,7 +11,7 @@
 
 - 📊 My journey in Web development **has been enriched with good ideas and powerful projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tutujnr](https://github.com/tutujnr)
+- 👨💻 All of my projects are available at [https://github.com/tutujnr](https://github.com/tutujnr)
 
 - 📈 My goal is to make Development **accessible and impactful for everyone**
 
