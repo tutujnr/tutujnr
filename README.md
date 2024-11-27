@@ -21,6 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/langat-evans-cheruiyot-84675a220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="langat-evans-cheruiyot-84675a220" height="30" width="40" /></a>
+<a href="https://discord.gg/k5EUSSCQYG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k5EUSSCQYG" height="30" width="40" /></a>
+<a href="https://twitter.com/evanstutujnr417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evanstutujnr417" height="30" width="40" /></a>
+<a href="https://fb.com/evanzo.lancheruev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evanzo.lancheruev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
