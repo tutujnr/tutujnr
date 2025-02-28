@@ -7,7 +7,7 @@
 
 - 💡 I leverage software development to create **intelligent solutions that enhance decision-making and drive business growth.**
 
-- 🔬 My expertise lies in building secure ** efficient, and scalable software systems, from backend to frontend**
+- 🔬 My expertise lies in building secure **efficient, and scalable software systems, from backend to frontend**
 
 - 📊 I am driven by a passion for innovation **crafting software that solves real-world challenges and delivers meaningful impact.**
 
