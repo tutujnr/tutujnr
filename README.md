@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Langat Evans</h1>
-<h3 align="center">A passionate full stack developer specializing in creating efficient and scalable solutions,focusing on robust APIs and database performance optimization.</h3>
+<h3 align="center">A software engineer specializing in backend development, API security, AI integration, and full-stack solutions.</h3>
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<br>
 
 - 🔭 I’m currently working on **ANN System**
 
-- 💡 I believe in the power of web development **to drive informed decisions and improve businesses**
+- 💡 I leverage software development to create **intelligent solutions that enhance decision-making and drive business growth.**
 
-- 🔬 I specialize in web development **( back-end/front-end development, python development, and django development)**
+- 🔬 My expertise lies in building secure ** efficient, and scalable software systems, from backend to frontend**
 
-- 📊 My journey in Web development **has been enriched with good ideas and powerful projects**
+- 📊 I am driven by a passion for innovation **crafting software that solves real-world challenges and delivers meaningful impact.**
 
 - 💻 All of my projects are available at [https://github.com/tutujnr](https://github.com/tutujnr)
 
