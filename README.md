@@ -7,13 +7,13 @@
 <h3 align="center">
 Software Engineer | Backend & API Security | Cybersecurity | AI & ANN Systems | Full-Stack Engineer
 </h3>
-
+<br/>
 <img align="right" alt="Coding" width="400"
 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
 ---
 
-## 👨‍💻 Professional Summary (ATS Optimized)
+## 👨‍💻 Professional Summary
 
 I am a **software engineer specializing in backend development, API security, cybersecurity, and AI integration**.  
 I design and build **secure, scalable, and data-driven systems**, with hands-on experience in **web application security testing, secure network design, and Artificial Neural Networks (ANNs)**.
