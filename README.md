@@ -7,11 +7,11 @@
 <h3 align="center">
 Software Engineer | Backend & API Security | Cybersecurity | AI & ANN Systems | Full-Stack Engineer
 </h3>
-<br/>
-<img align="right" alt="Coding" width="400"
-src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
 ---
+
+<img align="right" alt="Coding" width="400"
+src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
 ## 👨‍💻 Professional Summary
 
