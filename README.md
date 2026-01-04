@@ -9,7 +9,7 @@ src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTl
 
 ---
 
-## 👨‍💻 Professional Summary (ATS Optimized)
+## 👨‍💻 Professional Summary
 
 I am a **software engineer specializing in backend development, API security, cybersecurity, and AI integration**.  
 I design and build **secure, scalable, and data-driven systems**, with hands-on experience in **web application security testing, secure network design, and Artificial Neural Networks (ANNs)**.
@@ -75,7 +75,7 @@ My work spans **backend engineering, Zero Trust API architectures, OWASP Top 10 
 
 ---
 
-## 📌 Featured Projects (Pinned-Style)
+## 📌 Featured Projects
 
 🔹 **Secure Inter-Branch Connectivity – Cisco Packet Tracer**  
 Designed and implemented a secure multi-branch network with static routing, ACLs, and verified end-to-end connectivity.
