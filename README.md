@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Langat Evans</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tutujnr&label=Profile%20Views&color=0e75b6&style=flat" alt="tutujnr" />
+</p>
+
 <h3 align="center">
 Software Engineer | Backend & API Security | Cybersecurity | AI & ANN Systems | Full-Stack Engineer
 </h3>
@@ -9,7 +13,7 @@ src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTl
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Professional Summary (ATS Optimized)
 
 I am a **software engineer specializing in backend development, API security, cybersecurity, and AI integration**.  
 I design and build **secure, scalable, and data-driven systems**, with hands-on experience in **web application security testing, secure network design, and Artificial Neural Networks (ANNs)**.
@@ -51,15 +55,29 @@ My work spans **backend engineering, Zero Trust API architectures, OWASP Top 10 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
 </p>
 
-- 🛡️ **Burp Suite** – Web application security testing & interception  
-- 🧪 **DVWA** – Vulnerability exploitation & mitigation practice  
+- 🛡️ **Burp Suite** – Web application security testing  
+- 🧪 **DVWA** – Vulnerability exploitation & mitigation  
 - 🧃 **OWASP Juice Shop** – OWASP Top 10 hands-on labs  
-- 🌐 **Cisco Packet Tracer** – Secure routing, ACLs, inter-branch connectivity  
+- 🌐 **Cisco Packet Tracer** – Secure routing, ACLs & inter-branch connectivity  
 
 ### 🤖 AI / Data
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
+
+---
+
+## 🛡️ Cybersecurity Badges & Focus
+
+<p>
+<img src="https://img.shields.io/badge/OWASP-Top%2010-critical?style=for-the-badge&logo=owasp&color=black" />
+<img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Blue%20Team-Defensive%20Security-blue?style=for-the-badge" />
+</p>
+
+- 🔴 Red Team: Vulnerability discovery, exploitation, threat simulation  
+- 🔵 Blue Team: Secure design, mitigation, monitoring, and defense  
+- ⚫ OWASP: Practical mitigation of Top 10 web vulnerabilities  
 
 ---
 
@@ -87,12 +105,20 @@ Development of Artificial Neural Network models for intelligent decision-making 
 LLM-integrated API processing CSV/XLSX data with secure endpoints and structured outputs.
 
 🔹 **MindMerge – Django Classroom Platform**  
-Secure collaborative platform allowing users to create and join rooms for structured idea sharing.
+Secure collaborative platform for structured idea sharing.
 
 🔹 **Web Application Security Labs**  
 Hands-on exploitation and remediation using **DVWA**, **OWASP Juice Shop**, and **Burp Suite**.
 
 👉 View all projects: **https://github.com/tutujnr**
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tutujnr&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -109,10 +135,18 @@ Hands-on exploitation and remediation using **DVWA**, **OWASP Juice Shop**, and 
 
 ---
 
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+<img src="https://github.com/tutujnr/tutujnr/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌍 Mission & Impact
 
 - Build **secure and intelligent software systems**
-- Apply **AI and cybersecurity** to real-world problems
+- Apply **AI and cybersecurity** to real-world challenges
 - Make **software development accessible and impactful**
 - Deliver solutions where **results and metrics matter**
 
@@ -122,21 +156,15 @@ Hands-on exploitation and remediation using **DVWA**, **OWASP Juice Shop**, and 
 
 <p align="left">
 <a href="https://linkedin.com/in/langat-evans-cheruiyot-84675a220" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
 <a href="https://discord.gg/k5EUSSCQYG" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
 </a>
 
 <a href="https://twitter.com/evanstutujnr417" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
 </p>
 
@@ -147,4 +175,4 @@ height="30" width="40" />
 
 ---
 
-⭐ *If my work interests you, feel free to connect or explore my repositories.*
+⭐ *If my work resonates with you, feel free to connect or explore my repositories.*
