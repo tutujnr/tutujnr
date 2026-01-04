@@ -1,39 +1,150 @@
 <h1 align="center">Hi 👋, I'm Langat Evans</h1>
-<h3 align="center">A software engineer specializing in backend development, API security, AI integration, and full-stack solutions.</h3>
-<img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
-<br>
 
-- 🔭 I’m currently working on **ANN System**
+<h3 align="center">
+Software Engineer | Backend & API Security | Cybersecurity | AI & ANN Systems | Full-Stack Engineer
+</h3>
 
-- 💡 I leverage software development to create **intelligent solutions that enhance decision-making and drive business growth.**
+<img align="right" alt="Coding" width="400"
+src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
-- 🔬 My expertise lies in building secure **efficient, and scalable software systems, from backend to frontend**
+---
 
-- 📊 I am driven by a passion for innovation **crafting software that solves real-world challenges and delivers meaningful impact.**
+## 👨‍💻 Professional Summary (ATS Optimized)
 
-- 💻 All of my projects are available at [https://github.com/tutujnr](https://github.com/tutujnr)
+I am a **software engineer specializing in backend development, API security, cybersecurity, and AI integration**.  
+I design and build **secure, scalable, and data-driven systems**, with hands-on experience in **web application security testing, secure network design, and Artificial Neural Networks (ANNs)**.
 
-- 📈 My goal is to make Development **accessible and impactful for everyone**
+My work spans **backend engineering, Zero Trust API architectures, OWASP Top 10 mitigation, and intelligent system design**, with a strong focus on real-world impact and measurable results.
 
-- 📫 How to reach me **evanslangat417@gmail.com**
+---
 
-- ⚡ Fun fact **Let the number speak for themselves**
+## 🔬 Research & Technical Interests
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/langat-evans-cheruiyot-84675a220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="langat-evans-cheruiyot-84675a220" height="30" width="40" /></a>
-<a href="https://discord.gg/k5EUSSCQYG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k5EUSSCQYG" height="30" width="40" /></a>
-<a href="https://twitter.com/evanstutujnr417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evanstutujnr417" height="30" width="40" /></a>
-<a href="https://fb.com/evanzo.lancheruev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evanzo.lancheruev" height="30" width="40" /></a>
+- Artificial Neural Networks (ANNs) & Intelligent Systems  
+- Secure AI Integration in Software Systems  
+- API Security & Zero Trust Architectures  
+- Web Application Vulnerabilities (OWASP Top 10)  
+- Cybersecurity Automation & Secure System Design  
+- Math-as-Code & Decision-Oriented Software Systems  
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🖥️ Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <!--<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>-->
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tutujnr&show_icons=true&locale=en&layout=compact" alt="tutujnr" /></p>
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
+</p>
 
+### 🔐 Cybersecurity & Networking
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+</p>
 
+- 🛡️ **Burp Suite** – Web application security testing & interception  
+- 🧪 **DVWA** – Vulnerability exploitation & mitigation practice  
+- 🧃 **OWASP Juice Shop** – OWASP Top 10 hands-on labs  
+- 🌐 **Cisco Packet Tracer** – Secure routing, ACLs, inter-branch connectivity  
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tutujnr&show_icons=true&locale=en" alt="tutujnr" /></p>-->
+### 🤖 AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tutujnr&" alt="tutujnr" /></p>
+---
+
+## 🚀 Core Competencies
+
+- Secure Backend Development (Django, Flask, Express)
+- API Security & Zero Trust Architecture
+- Web Application Security (XSS, SQLi, CSRF, Auth Flaws)
+- Network Security & ACL Configuration
+- AI Integration & ANN Systems
+- Full-Stack Engineering
+- Secure System Design & Threat Mitigation
+
+---
+
+## 📌 Featured Projects (Pinned-Style)
+
+🔹 **Secure Inter-Branch Connectivity – Cisco Packet Tracer**  
+Designed and implemented a secure multi-branch network with static routing, ACLs, and verified end-to-end connectivity.
+
+🔹 **ANN-Based Intelligent System**  
+Development of Artificial Neural Network models for intelligent decision-making and automation.
+
+🔹 **Sentiment Analysis API (Secure Flask API)**  
+LLM-integrated API processing CSV/XLSX data with secure endpoints and structured outputs.
+
+🔹 **MindMerge – Django Classroom Platform**  
+Secure collaborative platform allowing users to create and join rooms for structured idea sharing.
+
+🔹 **Web Application Security Labs**  
+Hands-on exploitation and remediation using **DVWA**, **OWASP Juice Shop**, and **Burp Suite**.
+
+👉 View all projects: **https://github.com/tutujnr**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tutujnr&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tutujnr&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutujnr&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🌍 Mission & Impact
+
+- Build **secure and intelligent software systems**
+- Apply **AI and cybersecurity** to real-world problems
+- Make **software development accessible and impactful**
+- Deliver solutions where **results and metrics matter**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/langat-evans-cheruiyot-84675a220" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+height="30" width="40" />
+</a>
+
+<a href="https://discord.gg/k5EUSSCQYG" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/evanstutujnr417" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📫 Contact
+📧 **evanslangat417@gmail.com**
+
+---
+
+⭐ *If my work interests you, feel free to connect or explore my repositories.*
