@@ -13,11 +13,25 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: tutujnr
+
+          # Base sections
           template: classic
           base: header, activity, repositories, community
+
+          # 🔤 Languages with percentages
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
-          plugin_followup: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 2%
+
+          # 🏆 Achievements (used for grade)
           plugin_achievements: yes
           plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+
+          # 📈 GitHub grade (A, B+, etc.)
+          plugin_followup: yes
+
+          # 🌍 Timezone
           config_timezone: Africa/Nairobi
